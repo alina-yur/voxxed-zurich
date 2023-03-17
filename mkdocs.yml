@@ -1,4 +1,4 @@
-site_name: Awesome Java applications with GraalVM and Java microservices frameworks @ Voxxed Days Zurich
+site_name: Voxxed Days Zurich
 site_url: https://alina-yur.github.io/voxxed-zurich
 theme:
   name: material
