@@ -3,6 +3,8 @@ hide:
   - toc
   - navigation
 ---
+## Awesome Java applications with GraalVM and Java microservices frameworks
+
 Thank you for coming to this talk! If you have any more questions: [@alina_yurenko](https://twitter.com/alina_yurenko)
 
 <a href="AWESOME-JAVA-FRAMEWORKS-VD-ZURICH.pdf">
@@ -14,7 +16,7 @@ Thank you for coming to this talk! If you have any more questions: [@alina_yuren
 --------------
 
 
-# Resources
+## Resources
 
 * [GraalVM website](https://www.graalvm.org/)
 * [GraalVM tutorials](https://www.graalvm.org/latest/native-image/guides/)
