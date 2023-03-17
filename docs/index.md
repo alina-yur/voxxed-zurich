@@ -3,7 +3,6 @@ hide:
   - toc
   - navigation
 ---
- <title>Awesome Java applications with GraalVM and Java microservices frameworks</title>
 
 ## Awesome Java applications with GraalVM and Java microservices frameworks
 
