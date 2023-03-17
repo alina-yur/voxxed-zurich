@@ -23,6 +23,6 @@ Thank you for coming to this talk! If you have any more questions: [@alina_yuren
 * [Introducing Micronaut Test Resources](https://melix.github.io/blog/2022/08/micronaut-test-resources.html)
 * [Helidon Nima](https://github.com/helidon-io/helidon/tree/main/nima)
 * [Quarkus guides](https://quarkus.io/guides/)
-* [GraalVM Reachability Metadata Repository (Native Image reflection confuguration)](https://github.com/oracle/graalvm-reachability-metadata)
+* [GraalVM Reachability Metadata Repository (Native Image confuguration files)](https://github.com/oracle/graalvm-reachability-metadata)
 * [Native Build Tools: Native Maven & Gradle plugins](https://github.com/graalvm/native-build-tools)
 * [Ready for Native Image: libraries and frameworks](https://www.graalvm.org/native-image/libraries-and-frameworks/)
